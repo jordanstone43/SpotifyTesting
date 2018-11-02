@@ -13,3 +13,5 @@ imgUrl = results['images'][0]['url']
 sp.trace = True  # turn on tracing
 sp.trace_out = True  # turn on trace out
 webbrowser.open_new_tab(imgUrl)
+
+# DEez
